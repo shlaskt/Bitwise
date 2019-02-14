@@ -4,7 +4,7 @@
 * Input: int x, int y
 * Output: int result
 * Function Operation: The function gets tow numbers and returns the follow-
-*					  1 if x, -1 if y and 0 if equal
+*					  1 if x bigger, -1 if y bigger and 0 if equal
 *					  without if or loops
 ******************************************************************************************/
 int bitAnd(int x, int y){
